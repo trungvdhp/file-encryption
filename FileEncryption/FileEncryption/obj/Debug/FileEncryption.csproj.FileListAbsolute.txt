@@ -1,0 +1,16 @@
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\bin\Debug\FileEncryption.exe
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\bin\Debug\FileEncryption.pdb
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\obj\Debug\FileEncryption.frmMain.resources
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\obj\Debug\FileEncryption.Properties.Resources.resources
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\obj\Debug\FileEncryption.csproj.GenerateResource.Cache
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\obj\Debug\FileEncryption.exe
+C:\Users\CENTRE\AppData\Local\Temporary Projects\FileEncryption\obj\Debug\FileEncryption.pdb
+E:\My project\FileEncryption\FileEncryption\obj\Debug\FileEncryption.exe
+E:\My project\FileEncryption\FileEncryption\obj\Debug\FileEncryption.pdb
+E:\My project\FileEncryption\FileEncryption\obj\Debug\ResolveAssemblyReference.cache
+E:\My project\FileEncryption\FileEncryption\obj\Debug\FileEncryption.frmMain.resources
+E:\My project\FileEncryption\FileEncryption\obj\Debug\FileEncryption.Properties.Resources.resources
+E:\My project\FileEncryption\FileEncryption\obj\Debug\FileEncryption.csproj.GenerateResource.Cache
+E:\My project\FileEncryption\FileEncryption\bin\Debug\FileEncryption.exe
+E:\My project\FileEncryption\FileEncryption\bin\Debug\FileEncryption.pdb
