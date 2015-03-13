@@ -1,0 +1,1 @@
+Phần mềm mã hóa file
